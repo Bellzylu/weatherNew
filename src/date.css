@@ -1,0 +1,13 @@
+
+.time{
+font-size: 14px;
+}
+
+.date{
+font-size: 12px;
+}
+
+.date, .time {
+    /* text-align: center; */
+}
+

@@ -1,0 +1,19 @@
+
+.circle{
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    /* border:4px solid rgba(7, 6, 6, 0.29); */
+    margin: auto;
+    background: rgba(17, 10, 10, 0.172);
+    padding-top: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0;
+
+}
+
+.text{
+    margin: auto;
+    padding: 7px;
+}

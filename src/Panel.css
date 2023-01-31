@@ -1,0 +1,47 @@
+
+.panel {
+    position: absolute;
+    width: 35%; 
+    height: 100%;
+    top: 0;
+    right: 0;
+    background: 
+    rgba(110, 110, 110, 0.25);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border:1px solid rgba(255, 255, 255, 0.18);
+    z-index: 1;
+    padding: 3em 2em; 
+    overflow-y: scroll;
+}
+
+.panel form{
+    margin-bottom: 3em;
+}
+
+.panel ul {
+    padding: 0 0 1em 0;
+    margin: 2em 0;
+    
+}
+
+.panel ul li {
+    padding: 0 0 1em 0;
+    margin: 2em 0;
+
+}
+
+.panel ul li {
+    color: rgba(253, 249, 249, 0.966);
+    margin: 2.5em 0;
+}
+
+.panel ul h4 {
+    margin: 3em 0;
+}
+
+.details li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

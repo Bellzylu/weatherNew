@@ -1,0 +1,12 @@
+
+.cityHeader{
+    display: block;
+    Color: rgb(15, 11, 11);
+    text-align: center;
+    padding-top: 20px;
+    font-size: 84px;
+     /* background: 
+    rgba(110, 110, 110, 0.25);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); */
+}

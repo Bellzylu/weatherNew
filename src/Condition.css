@@ -1,0 +1,39 @@
+.condition {
+    padding: 1em;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.degrees{
+    text-align: center;
+    font-size: 56px;
+   
+
+}
+
+#celcius{
+    font-size: 40px;
+
+}
+#farenheit{
+font-size: 40px;
+}
+
+.inLine{
+display:flex;
+justify-content: left;
+align-items: center;
+}
+
+
+.humidity{
+text-align: center;
+font-size: 16px;
+font-weight: 100;
+
+}
+
+.condition, .degrees, .humidity{
+ color: rgba(4, 10, 15, 0.81);
+}

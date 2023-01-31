@@ -1,0 +1,44 @@
+
+.forecast {
+    display: flex;
+     padding: 0 0 1em 0; 
+    margin: 0;
+    float: left; 
+    justify-content: space-between;
+    color: red;
+}
+
+#day{
+    font-size: 14px;
+    color: white;
+
+}
+
+#iconsContainer{
+    display: flex;
+    padding: 0 0 1em 0;
+    margin: 0;
+    float: left;
+}
+
+
+.image{
+    display: block;
+    justify-content: space-between;
+    margin-right: 1.4em;
+}
+
+.weather{
+    display: inline;
+    /* margin-right: 1.5em;
+    margin-left: 1.5em; */
+}
+
+.minValues, .maxValues{
+    display: inline;
+    color:#ccc;
+    font-size: 14px;
+
+}
+
+
