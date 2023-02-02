@@ -1,5 +1,4 @@
 import "./Panel.css";
-import 'bootstrap/dist/css/bootstrap.css';
 import Search from "./Search";
 import WeatherData from "./WeatherData";
 import Forecast from "./Forecast";

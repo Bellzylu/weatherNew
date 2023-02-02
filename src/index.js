@@ -10,7 +10,6 @@ import Search from "./Search";// import Units from "./Units";
 import WeatherSearch from "./WeatherSearch";
 import Panel from "./Panel";
 import "./background.css";
-import 'bootstrap/dist/css/bootstrap.css';
 import WeatherData from "./WeatherData";
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
