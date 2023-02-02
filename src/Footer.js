@@ -5,7 +5,7 @@ export default function Footer(){
     return(
         <div className="footerTxt"> <h2>WeatherWit </h2>  
         <h5> 
-     <a href="https://github.com/Bellzylu/weatherwit.git" 
+     <a href="https://github.com/Bellzylu/weatherNew.git" 
       target="_blank"> 
     Open source code </a>by Isabella Lutken </h5> </div>
     )
